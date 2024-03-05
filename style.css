@@ -1,0 +1,43 @@
+.fm{
+	margin: 20px;
+	text-align: center;
+	font-size: large;
+}
+
+input{
+	width: 100%;
+}
+
+.table{
+	
+	text-align: center;
+	margin: auto;
+	
+}
+
+table,td,th{
+	font-size: 25px;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+th,td{
+	padding: 15px;
+}
+
+th {
+  background-color: #04AA6D;
+  color: white;
+  font-weight: bold;
+}
+
+tr:hover{
+	background-color: coral;
+}
+button{
+	font-size: 15px;
+	background-color: lightblue;
+	padding: 3px;
+	border-radius: 7px;
+
+}
